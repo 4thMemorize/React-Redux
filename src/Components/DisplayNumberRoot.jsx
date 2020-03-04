@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import DisplayNumber from "./DisplayNumber"
 import DisplayNumberContatiner from '../Containers/DisplayNumberContatiner';
 
 export default class DisplayNumberRoot extends Component {
